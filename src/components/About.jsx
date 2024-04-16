@@ -9,8 +9,7 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Sumit Kr Ravi, a passionate Web developer with a keen eye for MERN
-          Stack . background in IT, I strive to create impactful and
+          Hello, I'm Sumit Kr Ravi, a passionate Web developer. With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
         <br />
