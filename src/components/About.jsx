@@ -17,8 +17,8 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
+          Graduation - MARWARI COLLEGE RANCHI, 2021-2024, BCA. <br />
+          [Institution], [Year] [Relevant Course], [Platform/Institution]
           [Year]
         </span>
         <br />
