@@ -18,31 +18,28 @@ function About() {
         </h1>
         <span>
           Graduation - MARWARI COLLEGE RANCHI, 2021-2024, BCA. <br />
-          [Institution], [Year] [Relevant Course], [Platform/Institution]
-          [Year]
+          12th Pass - Upgraded RB +2 HIGH SCHOOL SANDI CHITARPUR, 2019-2021, I.SC. <br />
+          10th Pass - RB +2 HIGH SCHOOL SANDI CHITARPUR, 2017-2019, 10th Class. <br />
+          
         </span>
         <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
-          Skills & Expertise
+          Skills
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
+          Proficient in C and C++ Experienced with Visual Studio Code and framework Bootstarp.
           Excellent problem-solving skills Effective communicator and
           collaborator
         </span>
         <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
-          Professional Experience
+          Internship & Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+          Web Developer, Bhart Internship Bhopal - Madhya Pradesh, August 10, 2023 to  September 10, 2023.<br /> 
+          Web Developer, OctaNet Internship Bhubeneshwar - Odisha, September 10, 2023 to October 10, 2023.<br /> 
         </span>
         <br />
         <br />

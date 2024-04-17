@@ -9,31 +9,21 @@ function PortFolio() {
   const cardItem = [
     {
       id: 1,
-      logo: mongoDB,
-      name: "MongoDB",
-    },
-    {
-      id: 2,
-      logo: express,
-      name: "Express",
-    },
-    {
-      id: 3,
       logo: reactjs,
       name: "ReactJS",
     },
     {
-      id: 4,
+      id: 2,
       logo: nodejs,
       name: "NodeJS",
     },
     {
-      id: 5,
+      id: 3,
       logo: python,
       name: "Python",
     },
     {
-      id: 6,
+      id: 4,
       logo: java,
       name: "Java",
     },
@@ -49,12 +39,12 @@ function PortFolio() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-3 my-5">
           {cardItem.map(({ id, logo, name }) => (
             <div
-              className="md:w-[300px] md:h-[300px] border-[2px] rounded-lg shadow-lg p-1 cursor-pointer hover:scale-110 duration-300"
+              className="md:w-[280px] md:h-[280px] border-[2px] rounded-lg shadow-lg p-1 cursor-pointer hover:scale-110 duration-300"
               key={id}
             >
               <img
                 src={logo}
-                className="w-[120px] h-[120px] p-1 rounded-full border-[2px]"
+                className="w-[110px] h-[110px] p-1 rounded-full border-[2px]"
                 alt=""
               />
               <div>
@@ -63,9 +53,9 @@ function PortFolio() {
                   Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 </p>
               </div>
-              <div className=" px-6 py-4 space-x-3 justify-around">
+              <div className=" px-6 py-4 space-x-2 justify-around">
                 <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded">
-                  Video
+                  Open
                 </button>
                 <button className="bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded">
                   Source code

@@ -11,7 +11,7 @@ function Experiance() {
     {
       id: 1,
       logo: html,
-      name: "MongoDB",
+      name: "HTML",
     },
     {
       id: 2,
@@ -33,16 +33,7 @@ function Experiance() {
       logo: oracle,
       name: "Oracle",
     },
-    {
-      id: 6,
-      logo: spring,
-      name: "Spring",
-    },
-    {
-      id: 7,
-      logo: springBoot,
-      name: "Spring Boot",
-    },
+    
   ];
   return (
     <div

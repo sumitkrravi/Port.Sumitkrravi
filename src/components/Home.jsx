@@ -2,7 +2,7 @@ import React from "react";
 
 import pic from "../../public/photo.avif";
 
-import { FaSquareFacebook } from "react-icons/fa6";
+import { FaDownload, FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 import { IoLogoYoutube } from "react-icons/io";
 import { FaTelegram } from "react-icons/fa6";
@@ -67,6 +67,11 @@ function Home() {
                   <li>
                     <a href="https://t.me/sumitkrravi" target="_blank">
                       <FaTelegram className="text-2xl cursor-pointer" />
+                    </a>
+                  </li>
+                  <li>
+                    <a href="public\sumit resume.pdf" target="_blank">
+                      <FaDownload className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                 </ul>
