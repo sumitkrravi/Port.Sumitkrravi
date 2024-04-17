@@ -38,8 +38,10 @@ function About() {
           Internship & Experience
         </h1>
         <span>
-          Web Developer, Bhart Internship Bhopal - Madhya Pradesh, August 10, 2023 to  September 10, 2023.<br /> 
-          Web Developer, OctaNet Internship Bhubeneshwar - Odisha, September 10, 2023 to October 10, 2023.<br /> 
+          Web Developer, Bhart Internship Bhopal - Madhya Pradesh, August 10, 2023 to  September 10, 2023.
+          <br /> 
+          <br />
+           Web Developer, OctaNet Internship Bhubeneshwar - Odisha, September 10, 2023 to October 10, 2023.<br /> 
         </span>
         <br />
         <br />
