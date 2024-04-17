@@ -17,8 +17,8 @@ function About() {
           Education & Training
         </h1>
         <span>
-          Graduation - MARWARI COLLEGE RANCHI, 2021-2024, BCA. <br />
-          12th Pass - Upgraded RB +2 HIGH SCHOOL SANDI CHITARPUR, 2019-2021, I.SC. <br />
+          Graduation - MARWARI COLLEGE RANCHI, 2021-2024, BCA. <br /> <br />
+          12th Pass - Upgraded RB +2 HIGH SCHOOL SANDI CHITARPUR, 2019-2021, I.SC. <br /> <br />
           10th Pass - RB +2 HIGH SCHOOL SANDI CHITARPUR, 2017-2019, 10th Class. <br />
           
         </span>
