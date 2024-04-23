@@ -20,7 +20,7 @@ function About() {
           Graduation - MARWARI COLLEGE RANCHI, 2021-2024, BCA. <br /> <br />
           12th Pass - Upgraded RB +2 HIGH SCHOOL SANDI CHITARPUR, 2019-2021, I.SC. <br /> <br />
           10th Pass - RB +2 HIGH SCHOOL SANDI CHITARPUR, 2017-2019, 10th Class. <br />
-          
+
         </span>
         <br />
         <br />
@@ -39,9 +39,9 @@ function About() {
         </h1>
         <span>
           Web Developer, Bhart Internship Bhopal - Madhya Pradesh, August 10, 2023 to  September 10, 2023.
-          <br /> 
           <br />
-           Web Developer, OctaNet Internship Bhubeneshwar - Odisha, September 10, 2023 to October 10, 2023.<br /> 
+          <br />
+          Web Developer, OctaNet Internship Bhubeneshwar - Odisha, September 10, 2023 to October 10, 2023.<br />
         </span>
         <br />
         <br />
@@ -49,8 +49,11 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          3rd Rank, Isc Exam in Our School, 2021
+          <br />
+          <br />
+          4th Rank, 10th Exam in Our School, 2019
+
         </span>
         <br />
         <br />
@@ -59,7 +62,7 @@ function About() {
         </h1>
         <p>
           My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
+          innovative ideas solutions that exceed client expectations and
           contribute positively to the digital landscape. I am committed to
           continuous learning and growth, always seeking new challenges and
           opportunities to expand my horizons.

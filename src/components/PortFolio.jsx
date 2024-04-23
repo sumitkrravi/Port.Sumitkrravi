@@ -55,7 +55,7 @@ function PortFolio() {
               </div>
               <div className=" px-6 py-4 space-x-2 justify-around">
                 <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded">
-                  Open
+                  Live
                 </button>
                 <button className="bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded">
                   Source code

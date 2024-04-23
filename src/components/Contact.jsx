@@ -49,7 +49,7 @@ function Contact() {
                 id="name"
                 name="name"
                 type="text"
-                placeholder="Enter your fullname"
+                placeholder="Enter your full Name"
               />
               {errors.name && <span>This field is required</span>}
             </div>
@@ -61,9 +61,9 @@ function Contact() {
                 id="email"
                 name="email"
                 type="text"
-                placeholder="Enter your email address"
+                placeholder="Enter your Email address"
               />
-              {errors.email && <span>This field is required</span>}
+              {errors.email && <span> This field is required</span>}
             </div>
             <div className="flex flex-col mb-4">
               <label className="block text-gray-700">Message</label>
@@ -78,7 +78,7 @@ function Contact() {
               {errors.message && <span>This field is required</span>}
             </div>
             <button
-              type="submit"
+              type="Submit"
               className="bg-black text-white rounded-xl px-3 py-2 hover:bg-slate-700 duration-300"
             >
               Send
