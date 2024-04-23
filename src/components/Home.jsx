@@ -37,11 +37,7 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+              Hi, I'm Sumit from Ranchi, Jharkhand. My portfolio reflects my journey in my Portfolio. As web developer at bharat internship & OctaNet Internship PVT Ltd. With projects spanning tempreture Converture, my Portfolio, resturent website, etc, I aim to demonstrate my versatility and dedication to crafting meaningful experiences. Dive in to explore my work and the passion driving each project."
             </p>
             <br />
             {/* social media icons */}
