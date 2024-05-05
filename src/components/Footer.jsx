@@ -22,7 +22,7 @@ function Footer() {
               <p className="text-sm">
                 &copy; 2024 Sumit kr Ravi. All rights reserved.
               </p>
-              <p className="text-sm">Website build with ❤️ </p>
+              <p className="text-sm"> Website build with ❤️ </p>
             </div>
           </div>
         </div>

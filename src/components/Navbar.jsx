@@ -33,10 +33,10 @@ function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className=" flex space-x-2">
             <img src={pic} className="h-12 w-12 rounded-full" alt="" />
-            <a href="#">< h1 className="font-semibold text-xl cursor-pointer"> 
+            <h1 className="font-semibold text-xl cursor-pointer">
               Sumit Kr <span className="text-green-500 text-2xl">Ravi</span>
               <p className="text-sm">Front End Developer</p>
-            </h1> </a>
+            </h1>
           </div>
           {/* desktop navbar */}
           <div>
