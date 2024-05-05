@@ -66,7 +66,7 @@ function Home() {
                     </a>
                   </li>
                   <li>
-                    <a href="/sumit resume.pdf" target="_blank">
+                    <a href="/sumit_resume.pdf" target="_blank">
                       <FaDownload className="text-2xl cursor-pointer" />
                     </a>
                   </li>
